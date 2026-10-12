@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "TestProject.Controllers.ConverterController",
+    "Method": "LengthConverted",
+    "RelativePath": "api/Converter/length",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meterlenght",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestProject.Controllers.ConverterController",
+    "Method": "TemperatureConverted",
+    "RelativePath": "api/Converter/temperature",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "temperature",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestProject.Controllers.ConverterController",
+    "Method": "WeightConverted",
+    "RelativePath": "api/Converter/weight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weight",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
